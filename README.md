@@ -17,4 +17,4 @@ www.plumed.org/doc-v2.9/user-doc/html/_m_e_m_b_r_a_n_e_f_u_s_i_o_n_m_o_d.html
 https://github.com/lautarodibartolo/MemFusion
 
 Full-fusion: final full-fusion structure files (.gro). Outcomes from 10 trajetory replicas. Water molecules not included.
-Production parameters are also included.
+Production parameters are also provided.
