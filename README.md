@@ -19,7 +19,9 @@ Production parameters are also provided.
 
 *************************************************************************************************************************
 
-Please cite: Mascotti, M.L., Mayorga, L.S. and Masone, D., 2025. An Unconventional Fusion Mechanism at the Origin of Eukaryotic Membranes. The Journal of Physical Chemistry B, 129(51), pp.13141-13152.
+Please cite: 
 
-<img width="2453" height="3262" alt="image" src="https://github.com/user-attachments/assets/3bf2b6f6-9cfa-4333-b61b-853abcb08173" />
+Mascotti, M.L., Mayorga, L.S. and Masone, D., 2025. An Unconventional Fusion Mechanism at the Origin of Eukaryotic Membranes. The Journal of Physical Chemistry B, 129(51), pp.13141-13152.
+
+<img width="245.3" height="326.2" alt="image" src="https://github.com/user-attachments/assets/3bf2b6f6-9cfa-4333-b61b-853abcb08173" />
 
