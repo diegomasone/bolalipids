@@ -1,5 +1,4 @@
 # bolalipids
-Bolalipids: the throwing weapons of Archaea
 
 The term "bola" refers to a traditional missile weapon (typically stones wrapped in leather attached to the ends of a cord) employed by indigenous peoples for hunting and capturing animals in South America.
 
